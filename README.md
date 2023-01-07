@@ -4,7 +4,7 @@ Soy un apasionado de los videojuegos y el mundo cripto.
 
 En 2021 conocí el juego Splinterlands y la blockchain Hive y desde entonces he ido descubriendo el maravilloso ecosistema que alberga.
 
-Con mis pocos conocimientos en Python he podido desarrollar varios proyectos en Hive y crear mis propios scripts para automatizar algunas tareas y ahora quiero compartirlas con todos vosotros.
+Con mis pocos conocimientos en Python he podido desarrollar varios proyectos en Hive y crear mis propios scripts para automatizar algunas tareas y ahora quiero compartirlos con todos vosotros.
 
 ## Encuéntrame en:
 
