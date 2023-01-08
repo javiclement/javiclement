@@ -18,7 +18,7 @@ Con mis pocos conocimientos en Python he podido desarrollar varios proyectos en 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 
-## Aquí mis tutoriales:
+## Aquí todos mis tutoriales:
 
 - [Tutorial Python and HiveSQL applied to Splinterlands and Hive Blockchain](https://github.com/javiclement/tutorial-splinterlands-hive-python-hivesql)
 
