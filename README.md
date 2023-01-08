@@ -20,7 +20,7 @@ Con mis pocos conocimientos en Python he podido desarrollar varios proyectos en 
 
 ## Aquí todos mis tutoriales:
 
-- [Tutorial Python and HiveSQL applied to Splinterlands and Hive Blockchain](https://github.com/javiclement/tutorial-splinterlands-hive-python-hivesql)
+- [Tutorial Python and HiveSQL applied to Splinterlands and Hive Blockchain](https://github.com/javiclement/tutorial-splinterlands-hive-python-hivesql) (In progress)
 - [Guía de instalación y configuración de Ultimate Splinterlands Bot](https://peakd.com/hive-13323/@javivisan/guia-instalacion-y-configuracion-ultimate-bot-v2-esp-eng)
 - [Crea un bot en Telegram para llevar el seguimiento de Splinterlands 🤖](https://peakd.com/hive-13323/@javivisan/crea-un-bot-en-telegram-para-llevar-el-seguimiento-de-splinterlands-create-a-bot-on-telegram-to-keep-track-of-splinterlands-spa)
 
