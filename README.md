@@ -1,33 +1,84 @@
-### Hola mi nombre es Javier Clement 👋
+![Nativiza Banner](https://placehold.co/1200x400/02569B/FFFFFF?text=Nativiza+%7C+Flutter+Expert+%7C+Code+as+Strategy&font=roboto)
 
-Soy un apasionado de los videojuegos y el mundo cripto.
+<h1 align="center">Hola, soy Javier Clement 👋</h1>
 
-En 2021 conocí el juego Splinterlands y la blockchain Hive y desde entonces he ido descubriendo el maravilloso ecosistema que alberga.
+<p align="center">
+  <strong>Senior Flutter Developer & Tech Copywriter</strong><br>
+  <em>"El código limpio no es vanidad, es rentabilidad."</em>
+</p>
 
-Con mis pocos conocimientos en Python he podido desarrollar varios proyectos en Hive y crear mis propios scripts para automatizar algunas tareas y ahora quiero compartirlos con todos vosotros.
-
-## Encuéntrame en:
-
-[![Peakd](https://img.shields.io/badge/Peakd-@javivisan-e31337?style=for-the-badge&logo=hive_blockchain&logoColor=white&labelColor=101010)](https://peakd.com/@javivisan)
-
-[![Twitter](https://img.shields.io/badge/Twitter-@javi2san-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javi2san)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@javivisanph-23aaeb?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/javivisanph)
-
-## Tecnologías necesarias:
-
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
-
-## Aquí todos mis tutoriales:
-
-- [Tutorial Python and HiveSQL applied to Splinterlands and Hive Blockchain](https://github.com/javiclement/tutorial-splinterlands-hive-python-hivesql) (In progress)
-- [Guía de instalación y configuración de Ultimate Splinterlands Bot](https://peakd.com/hive-13323/@javivisan/guia-instalacion-y-configuracion-ultimate-bot-v2-esp-eng)
-- [Crea un bot en Telegram para llevar el seguimiento de Splinterlands 🤖](https://peakd.com/hive-13323/@javivisan/crea-un-bot-en-telegram-para-llevar-el-seguimiento-de-splinterlands-create-a-bot-on-telegram-to-keep-track-of-splinterlands-spa)
+<p align="center">
+  <a href="https://nativiza.vercel.app">🌐 Visita Nativiza</a> • 
+  <a href="mailto:javiclement@gmail.com.com">📧 Contáctame</a> • 
+  <a href="https://www.linkedin.com/in/javiclement/">👔 LinkedIn</a>
+</p>
 
 ---
 
-## Si el contenido te ha resultado útil, puedes apoyarme:
+## 🚀 Sobre mí
 
-[![](https://img.shields.io/badge/1%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=1%20HIVE) [![](https://img.shields.io/badge/5%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=5%20HIVE) [![](https://img.shields.io/badge/10%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=10%20HIVE)
+No soy el típico desarrollador que se esconde detrás de una pantalla negra y te entrega un ejecutable sin explicarte nada. **Soy un socio estratégico.**
 
-[![](https://img.shields.io/badge/1%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=1%20HBD) [![](https://img.shields.io/badge/5%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=5%20HBD) [![](https://img.shields.io/badge/10%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=javivisan&amount=10%20HBD)
+Llevo años en el ecosistema móvil y he llegado a una conclusión inamovible: **La calidad técnica es la mejor estrategia de negocio.** Si tu app falla, tu negocio falla. Si tu código es un desastre, tu escalabilidad es una pesadilla.
+
+Mi especialidad es **Flutter**. No porque sea una moda, sino porque permite crear experiencias nativas reales en tiempo récord. Me obsesiona la conversión **Web-to-App**. Ayudo a emprendedores y dueños de SaaS a dejar de perder usuarios en navegadores móviles y empezar a retenerlos en apps de alto rendimiento.
+
+> **Mi filosofía:** Un *WebView* disfrazado de App es una falta de respeto al usuario. Si vamos a hacerlo, lo hacemos **Nativo**.
+
+---
+
+## 🛠 Tech Stack & Herramientas
+
+No uso tecnologías por "hype". Uso lo que funciona, escala y se mantiene sólido.
+
+<div align="center">
+
+| Core | Backend & Data | Tools & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Codemagic-F55A60?style=for-the-badge&logo=codemagic&logoColor=white" /> |
+
+</div>
+
+* **Arquitectura:** Clean Architecture, SOLID principles, Riverpod/BLoC.
+* **Testing:** Porque el código sin tests es solo una sugerencia de funcionamiento.
+* **UI/UX:** Pixel Perfect. Si el diseño dice 16px, son 16px.
+
+---
+
+## 💡 Qué estoy haciendo ahora (Nativiza)
+
+Actualmente estoy construyendo y escalando **Nativiza**.
+
+Es mi respuesta a todos esos clientes que llegaban frustrados tras gastar miles de euros en desarrollos mediocres. En **Nativiza**, tomamos tu plataforma web existente y la transformamos en una App Móvil Premium, optimizada y lista para los Stores, sin reescribir todo tu backend.
+
+* 🌱 **Enfocado en:** Optimización de rendimiento en Flutter y estrategias de lanzamiento en App Store/Google Play.
+* 📝 **Escribiendo sobre:** Cómo la deuda técnica mata startups más rápido que la falta de marketing.
+
+---
+
+## 📈 Mis Estadísticas
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=javiclement&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiclement&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 ¿Trabajamos juntos?
+
+Si tienes un proyecto SaaS, un e-commerce o una idea validada y quieres dar el salto al móvil sin dolores de cabeza:
+
+1.  No busco parches rápidos.
+2.  Busco relaciones a largo plazo donde el código aporte valor real.
+
+**¿El problema que resuelvo?** Tienes usuarios móviles, pero tu web no fideliza.
+**¿La solución?** Una App nativa que se sienta como seda.
+
+[**Hablemos de tu proyecto**](https://nativiza.vercel.app/#contact)
+
+---
+
+<p align="center">
+  <sub>Diseñado con ❤️ y mucho café por Javi Clement para Nativiza.</sub>
+</p>
