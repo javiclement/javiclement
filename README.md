@@ -58,8 +58,10 @@ Es mi respuesta a todos esos clientes que llegaban frustrados tras gastar miles 
 
 ## 📈 Mis Estadísticas
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=javiclement&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=javiclement&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javiclement&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiclement&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</div>
 
 ---
 
