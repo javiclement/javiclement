@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nativiza.vercel.app">🌐 Visita Nativiza</a> • 
+  <a href="https://nativiza.com">🌐 Visita Nativiza</a> • 
   <a href="mailto:javiclement@gmail.com.com">📧 Contáctame</a> • 
   <a href="https://www.linkedin.com/in/javiclement/">👔 LinkedIn</a>
 </p>
@@ -58,10 +58,8 @@ Es mi respuesta a todos esos clientes que llegaban frustrados tras gastar miles 
 
 ## 📈 Mis Estadísticas
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=javiclement&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiclement&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=javiclement&show_icons=true&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=javiclement&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -75,7 +73,7 @@ Si tienes un proyecto SaaS, un e-commerce o una idea validada y quieres dar el s
 **¿El problema que resuelvo?** Tienes usuarios móviles, pero tu web no fideliza.
 **¿La solución?** Una App nativa que se sienta como seda.
 
-[**Hablemos de tu proyecto**](https://nativiza.vercel.app/#contact)
+[**Hablemos de tu proyecto**](https://nativiza.com/#contact)
 
 ---
 
